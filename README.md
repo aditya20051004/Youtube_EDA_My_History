@@ -94,6 +94,8 @@ Videos were categorized into topics such as:
 
 ---
 
+![img1](https://github.com/aditya20051004/Youtube_EDA_My_History/img3/Unknown-1.png)
+
 # 📊 Sample Insights
 
 - Identified peak YouTube usage hours
