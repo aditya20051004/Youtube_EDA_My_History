@@ -95,12 +95,12 @@ Videos were categorized into topics such as:
 ---
 
 ![img1](https://github.com/aditya20051004/Youtube_EDA_My_History/blob/main/img3%2FUnknown-1.png)
-![img2](https://github.com/aditya20051004/Youtube_EDA_My_History/blob/main/img3%2FUnknown-2.png)
+![img2](https://github.com/aditya20051004/Youtube_EDA_My_History/blob/main/img3%2FUnknown.png)
 ![img3](https://github.com/aditya20051004/Youtube_EDA_My_History/blob/main/img3%2FUnknown-3.png)
 ![img4](https://github.com/aditya20051004/Youtube_EDA_My_History/blob/main/img3%2FUnknown-4.png)
 ![img5](https://github.com/aditya20051004/Youtube_EDA_My_History/blob/main/img3%2FUnknown-5.png)
 ![img6](https://github.com/aditya20051004/Youtube_EDA_My_History/blob/main/img3%2FUnknown-6.png)
-![img7](https://github.com/aditya20051004/Youtube_EDA_My_History/blob/main/img3%2FUnknown.png)
+![img7](https://github.com/aditya20051004/Youtube_EDA_My_History/blob/main/img3%2FUnknown-7.png)
 
 # 📊 Sample Insights
 
