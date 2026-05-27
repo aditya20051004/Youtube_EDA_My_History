@@ -16,7 +16,7 @@ followed by a full sentiment analysis pipeline on video titles.
 Youtube_EDA_My_History/
 ├── myyoutubedataanalyze.ipynb   # Main analysis notebook
 ├── README.md
-└── img3/                        # Output visualizations
+└── img121/                        # Output visualizations
 ```
 
 ## Part 1 — Exploratory Data Analysis
@@ -28,11 +28,27 @@ Youtube_EDA_My_History/
 - Most active days of the week
 - Word cloud of video titles
 - Content category distribution (AI/ML, History, Politics, Career, Animals, Other)
+![img](https://github.com/aditya20051004/Youtube_EDA_My_History/blob/main/img121/Unknown-1-1.png)
+![img](https://github.com/aditya20051004/Youtube_EDA_My_History/blob/main/img121/Unknown-3-1.png)
+![img](https://github.com/aditya20051004/Youtube_EDA_My_History/blob/main/img121/Unknown-4-1.png)
+![img](https://github.com/aditya20051004/Youtube_EDA_My_History/blob/main/img121/Unknown-5-1.png)
+![img](https://github.com/aditya20051004/Youtube_EDA_My_History/blob/main/img121/Unknown-6.png)
+![img](https://github.com/aditya20051004/Youtube_EDA_My_History/blob/main/img121/Unknown-7.png)
+
+
 
 ## Part 2 — Sentiment Analysis
 
 Sentiment analysis was performed on cleaned video titles using two libraries
 and a custom emotion lexicon.
+![img](https://github.com/aditya20051004/Youtube_EDA_My_History/blob/main/img121/Unknown-1.png)
+![img](https://github.com/aditya20051004/Youtube_EDA_My_History/blob/main/img121/Unknown-2.png)
+![img](https://github.com/aditya20051004/Youtube_EDA_My_History/blob/main/img121/Unknown-3.png)
+![img](https://github.com/aditya20051004/Youtube_EDA_My_History/blob/main/img121/Unknown-4.png)
+![img](https://github.com/aditya20051004/Youtube_EDA_My_History/blob/main/img121/Unknown-5.png)
+![img](https://github.com/aditya20051004/Youtube_EDA_My_History/blob/main/img121/Unknown.png)
+![img](https://github.com/aditya20051004/Youtube_EDA_My_History/blob/main/img121/summary3.png)
+
 
 ### Sentiment Scoring — VADER
 
